@@ -10,6 +10,12 @@ This interactive dashboard analyzes user behavior and revenue data for Matiks ga
 - **Cohort Analysis**: Track user cohorts based on signup date to understand lifecycle patterns
 - **Key Insights & Recommendations**: Data-driven suggestions to improve retention and revenue
 
+## 📺 Demo Video
+
+[![Watch the Demo](demo__.png)](https://drive.google.com/file/d/1edjKpyBJ5299bzBwH7wf_gAyG8UghcOX/view?usp=drive_link)
+
+Click the above to watch the demo.
+
 ## How to Run the Dashboard
 
 ### Prerequisites
@@ -35,12 +41,6 @@ This interactive dashboard analyzes user behavior and revenue data for Matiks ga
    ```
 
 3. The dashboard will open in your default web browser at `http://localhost:8501`
-
-## 📺 Demo Video
-
-[![Watch the Demo](demo__.png)](https://drive.google.com/file/d/1edjKpyBJ5299bzBwH7wf_gAyG8UghcOX/view?usp=drive_link)
-
-Click the image above to watch the demo video hosted on Google Drive.
 
 ## Dashboard Structure
 The dashboard is organized into five main tabs:
