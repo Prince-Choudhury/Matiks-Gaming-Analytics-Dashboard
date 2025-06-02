@@ -36,6 +36,10 @@ This interactive dashboard analyzes user behavior and revenue data for Matiks ga
 
 3. The dashboard will open in your default web browser at `http://localhost:8501`
 
+4. 📺 Demo Video
+
+[Watch Demo on Google Drive](https://drive.google.com/file/d/1edjKpyBJ5299bzBwH7wf_gAyG8UghcOX/view?usp=drive_link)
+
 ## Dashboard Structure
 The dashboard is organized into five main tabs:
 
