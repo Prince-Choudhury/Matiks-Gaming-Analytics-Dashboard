@@ -38,7 +38,7 @@ This interactive dashboard analyzes user behavior and revenue data for Matiks ga
 
 ## 📺 Demo Video
 
-[![Watch the Demo](demo.png)](https://drive.google.com/file/d/1edjKpyBJ5299bzBwH7wf_gAyG8UghcOX/view?usp=drive_link)
+[![Watch the Demo](demo__.png)](https://drive.google.com/file/d/1edjKpyBJ5299bzBwH7wf_gAyG8UghcOX/view?usp=drive_link)
 
 Click the image above to watch the demo video hosted on Google Drive.
 
