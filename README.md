@@ -38,9 +38,9 @@ This interactive dashboard analyzes user behavior and revenue data for Matiks ga
 
 ## 📺 Demo Video
 
-[![Watch the Demo](https://drive.google.com/file/d/1H_s-RsqH0U9SVwzlFNoeJSIP9wr2KztA/view?usp=sharing)](https://drive.google.com/file/d/1edjKpyBJ5299bzBwH7wf_gAyG8UghcOX/view?usp=drive_link)
+[![Watch the Demo](demo.png)](https://drive.google.com/file/d/1edjKpyBJ5299bzBwH7wf_gAyG8UghcOX/view?usp=drive_link)
 
-Click the image to watch the demo video hosted on Google Drive.
+Click the image above to watch the demo video hosted on Google Drive.
 
 ## Dashboard Structure
 The dashboard is organized into five main tabs:
